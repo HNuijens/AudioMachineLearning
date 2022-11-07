@@ -1,3 +1,4 @@
 data/
 .ipynb_checkpoints/
 dataset.csv
+data.json
